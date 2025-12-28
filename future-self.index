@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+    <source url="future-self/source.xml" />
+    <file url="future-self/archetype_future_self.xml" />
+    <folder url="future-self/features/" />
+</index>

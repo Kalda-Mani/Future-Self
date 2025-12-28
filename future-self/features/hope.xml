@@ -1,0 +1,12 @@
+<element type="Archetype Feature" id="FEATURE_FUTURE_SELF_HOPE">
+    <name>Hope</name>
+    <description>
+        The connection forged through time with your future self fortifies you with
+        an unshakable faith in what is yet to come.
+
+        When you roll a natural 1 on a d20 test, you gain Heroic Inspiration
+        if you don’t already have it.
+
+        In addition, you gain Heroic Inspiration whenever you finish a Short or Long Rest.
+    </description>
+</element>

@@ -1,0 +1,16 @@
+<element type="Archetype Feature" id="FEATURE_FUTURE_SELF_SPELLS">
+    <name>Future Self Spells</name>
+    <description>
+        The power of your future self spirals across time, vitalising your present
+        self with magic. You always have the following spells prepared.
+    </description>
+
+    <sheet>
+        <description>
+        Warlock Level 3: Bless, Calm Emotions, Guidance, Protection from Evil and Good, Spiritual Weapon
+        Warlock Level 5: Clairvoyance, Haste
+        Warlock Level 7: Death Ward, Resilient Sphere
+        Warlock Level 9: Scrying, Telekinesis
+        </description>
+    </sheet>
+</element>

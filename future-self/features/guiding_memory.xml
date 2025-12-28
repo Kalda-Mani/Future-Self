@@ -1,0 +1,12 @@
+<element type="Archetype Feature" id="FEATURE_GUIDING_MEMORY">
+    <name>Guiding Memory</name>
+    <description>
+        When you cast a spell from your Future Self Spells list that requires
+        concentration, you can focus on memories of your future self.
+
+        While concentrating on that spell, you have advantage on Dexterity saving throws,
+        and attack rolls made against you have disadvantage.
+
+        Once you use this feature, you can’t do so again until you finish a Short or Long Rest.
+    </description>
+</element>

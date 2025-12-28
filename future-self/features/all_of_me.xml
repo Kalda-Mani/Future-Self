@@ -1,0 +1,13 @@
+<element type="Archetype Feature" id="FEATURE_ALL_OF_ME">
+    <name>All of Me</name>
+    <description>
+        At the start of your turn, echoes of yourself across all of time converge.
+
+        This turn, you can take one additional action.
+        In addition, you can cast one levelled Warlock spell this turn
+        without expending a spell slot.
+
+        Once you use this feature, you gain one level of exhaustion,
+        and you can’t use it again until you finish a Long Rest.
+    </description>
+</element>

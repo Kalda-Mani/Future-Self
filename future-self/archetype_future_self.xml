@@ -1,0 +1,22 @@
+<element type="Archetype" id="ARCHETYPE_WARLOCK_FUTURE_SELF">
+    <name>Future Self</name>
+    <description>
+        You have forged a paradoxical bond with the person you will one day become.
+        Echoes of future memories guide, protect, and empower you in the present.
+    </description>
+
+    <supports>Otherworldly Patron</supports>
+    <source>Source_FUTURE_SELF</source>
+
+    <rules>
+        <grant id="FEATURE_FUTURE_SELF_HOPE" level="3"/>
+        <grant id="FEATURE_FUTURE_SELF_SPELLS" level="3"/>
+        <grant id="FEATURE_GUIDING_MEMORY" level="3"/>
+
+        <grant id="FEATURE_NOT_TODAY" level="6"/>
+
+        <grant id="FEATURE_FUTURE_VISIONS" level="10"/>
+
+        <grant id="FEATURE_ALL_OF_ME" level="14"/>
+    </rules>
+</element>

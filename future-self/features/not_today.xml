@@ -1,0 +1,14 @@
+<element type="Archetype Feature" id="FEATURE_NOT_TODAY">
+    <name>Not Today</name>
+    <description>
+        In moments of catastrophe, you are fortified with the vitality of your future self.
+
+        When you are reduced to 0 hit points but not killed outright,
+        you can drop to 1 hit point instead.
+        You then regain a number of hit points equal to twice your Warlock level
+        and gain a bonus to AC and saving throws equal to your Charisma modifier
+        until the end of this turn.
+
+        Once you use this feature, you can’t use it again until you finish a Long Rest.
+    </description>
+</element>
